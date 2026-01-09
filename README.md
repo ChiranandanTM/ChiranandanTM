@@ -1,16 +1,37 @@
-## Hi there 👋
+# Chiranandan T M
 
-<!--
-**ChiranandanTM/ChiranandanTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering student with a strong interest in cybersecurity, software development, and problem solving.
+Focused on building practical projects and improving core computer science fundamentals.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Cybersecurity and ethical hacking
+* Web and software development
+* Automation and scripting
+* Data structures and algorithms
+
+## Skills
+
+* Languages: C, C++, Python, JavaScript
+* Web: HTML, CSS, basic React
+* Tools: Git, Linux, Firebase
+* Platforms: Kali Linux, Windows
+
+## Current Focus
+
+* Learning penetration testing fundamentals
+* Building full-stack and security-oriented projects
+* Preparing for technical interviews
+
+## Projects
+
+Most of my repositories are academic and self-learning projects related to:
+
+* Web applications
+* Cybersecurity experiments
+* College mini-projects
+
+## Contact
+
+Email: chiranandan54@gmail.com
+LinkedIn:linkedin.com/in/chiranandan-t-m-375b982a5
