@@ -12,7 +12,7 @@ Focused on building practical projects and improving core computer science funda
 
 ## Skills
 
-* Languages: C, C++, Python, JavaScript
+* Languages: C, Python, Java
 * Web: HTML, CSS, basic React
 * Tools: Git, Linux, Firebase
 * Platforms: Kali Linux, Windows
