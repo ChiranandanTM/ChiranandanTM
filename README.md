@@ -34,4 +34,5 @@ Most of my repositories are academic and self-learning projects related to:
 ## Contact
 
 Email: chiranandan54@gmail.com
+
 LinkedIn:linkedin.com/in/chiranandan-t-m-375b982a5
