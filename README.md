@@ -1,11 +1,11 @@
 # Chiranandan T M
 
-Computer Science Engineering student with a strong interest in cybersecurity, software development, and problem solving.
+Computer Science Engineering student with a strong interest in DevOps, cloud technologies, and software development.
 Focused on building practical projects and improving core computer science fundamentals.
 
 ## Interests
 
-* Cybersecurity and ethical hacking
+* DevOps and cloud infrastructure
 * Web and software development
 * Automation and scripting
 * Data structures and algorithms
@@ -14,13 +14,15 @@ Focused on building practical projects and improving core computer science funda
 
 * Languages: Java, C, Python
 * Web: HTML, CSS, basic React
-* Tools: Git, Linux, Firebase
-* Platforms: Kali Linux, Windows
+* DevOps: Git, Linux, CI/CD basics, Docker (learning)
+* Cloud & Tools: Firebase, basic cloud services
+* Platforms: Linux, Windows
 
 ## Current Focus
 
-* Learning penetration testing fundamentals
-* Building full-stack and security-oriented projects
+* Learning CI/CD pipelines and containerization
+* Building cloud-deployed full-stack projects
+* Improving Linux and automation skills
 * Preparing for technical interviews
 
 ## Projects
@@ -28,11 +30,11 @@ Focused on building practical projects and improving core computer science funda
 Most of my repositories are academic and self-learning projects related to:
 
 * Web applications
-* Cybersecurity experiments
+* DevOps automation experiments
+* Cloud deployment practice
 * College mini-projects
 
 ## Contact
 
-Email: chiranandan54@gmail.com
-
-LinkedIn:linkedin.com/in/chiranandan-t-m-375b982a5
+Email: [chiranandan54@gmail.com](mailto:chiranandan54@gmail.com)
+LinkedIn: [https://linkedin.com/in/chiranandan-t-m-375b982a5](https://linkedin.com/in/chiranandan-t-m-375b982a5)
