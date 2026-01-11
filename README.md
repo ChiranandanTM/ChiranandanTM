@@ -1,28 +1,27 @@
 # Chiranandan T M
 
-Computer Science Engineering student with a strong interest in DevOps, cloud technologies, and software development.
-Focused on building practical projects and improving core computer science fundamentals.
+Computer Science Engineering student with a strong interest in software development and problem solving.
+Focused on building practical projects and strengthening core computer science fundamentals.
 
 ## Interests
 
-* DevOps and cloud infrastructure
 * Web and software development
 * Automation and scripting
 * Data structures and algorithms
+* Learning new programming technologies
 
 ## Skills
 
-* Languages: Java, C, Python
-* Web: HTML, CSS, basic React
-* DevOps: Git, Linux, CI/CD basics, Docker (learning)
-* Cloud & Tools: Firebase, basic cloud services
-* Platforms: Linux, Windows
+* **Languages:** Java, C, Python
+* **Web:** HTML, CSS, basic React
+* **Tools:** Git, Linux (basics)
+* **Platforms:** Linux, Windows
 
 ## Current Focus
 
-* Learning CI/CD pipelines and containerization
-* Building cloud-deployed full-stack projects
-* Improving Linux and automation skills
+* Improving programming and problem-solving skills
+* Building full-stack web applications
+* Strengthening data structures and algorithms
 * Preparing for technical interviews
 
 ## Projects
@@ -30,9 +29,9 @@ Focused on building practical projects and improving core computer science funda
 Most of my repositories are academic and self-learning projects related to:
 
 * Web applications
-* DevOps automation experiments
-* Cloud deployment practice
+* Programming practice projects
 * College mini-projects
+* Algorithm and logic-based implementations
 
 ## Contact
 
