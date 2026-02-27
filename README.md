@@ -12,7 +12,7 @@ Focused on building practical projects and strengthening core computer science f
 
 ## Skills
 
-* **Languages:** Java, C, Python
+* **Languages:** Java
 * **Web:** HTML, CSS, basic React
 * **Tools:** Git, Linux (basics)
 * **Platforms:** Linux, Windows
