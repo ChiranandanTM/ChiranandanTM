@@ -14,7 +14,7 @@ Focused on building practical projects and strengthening core computer science f
 
 * **Languages:** Java
 * **Web:** HTML, CSS, basic React
-* **Tools:** Git, Github, Linux (basics),
+* **Tools:** Git, Github, Linux (basics)
 * **Platforms:** Linux, Windows
 
 ## Current Focus
