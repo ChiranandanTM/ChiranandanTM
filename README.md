@@ -14,7 +14,7 @@
 
 [![Email](https://img.shields.io/badge/Gmail-chiranandan54%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiranandan54@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chiranandan-t-m-375b982a5)
-[![Profile Views](https://komarev.com/ghpvc/?username=chiranandan&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)](https://github.com/chiranandan)
+[![Profile Views](https://komarev.com/ghpvc/?username=ChiranandanTM&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)](https://github.com/ChiranandanTM)
 
 </div>
 
@@ -105,14 +105,14 @@ public class Chiranandan {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=chiranandan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=6366f1&icon_color=6366f1" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiranandan&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ChiranandanTM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=6366f1&icon_color=6366f1" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiranandanTM&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=chiranandan&theme=tokyonight&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ChiranandanTM&theme=tokyonight&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
 
 </div>
 
